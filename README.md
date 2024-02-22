@@ -1,6 +1,6 @@
 ## Quiz App
 
-This is a **simple quiz app** made using vanilla JavaScript and ES6 syntax. It is a fun and interactive way to learn the ins & outs of the JavaScript language. The app is designed with best code practices and accessibility guidelines so you get the most out of your learning journey.
+This is a ***simple quiz app*** made using vanilla JavaScript and ES6 syntax. It is a fun and interactive way to learn the ins & outs of <mark>the JavaScript language.</mark> The app is designed with best code practices and accessibility guidelines so you get the most out of your learning journey.
 
 ### Features
 
@@ -11,15 +11,15 @@ The app also shows you a summary of your results at the end of the quiz and allo
 
 ### How to use
 
-To use the app, you need to have a web browser that supports JavaScript and ES6 features. **All browsers support ES6 by now ;)**
+To use the app, you need to have a web browser that supports JavaScript and ES6 features. **All browsers support ES6 by now 😉**
 
 You can clone or download this repository and open the index.html file in your browser to start the app.
 
 Alternatively, you can **visit the live demo of the app here.**
 
-Enjoy the quiz and have fun learning!
+<mark>*Enjoy the quiz and have fun learning!*</mark>
 
-### How to contribute
+### How to contribute?
 
 If you want to contribute to this project, you are welcome to do so. You can fork this repository and make your changes or improvements.
 You can also submit issues or pull requests if you find any bugs or have any suggestions for the app.
@@ -27,3 +27,15 @@ Please follow the code style and formatting guidelines as well as the code of co
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Please ⭐ if you liked it 🥺
+
+### Always Remember
+
+```
+
+let love = ⭐;
+
+let contribute = 🌵;
+
+```
